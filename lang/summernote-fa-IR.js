@@ -48,7 +48,7 @@
         insert: 'افزودن خط افقی'
       },
       style: {
-        style: 'استیل',
+        style: 'استایل',
         p: 'نرمال',
         blockquote: 'نقل قول',
         pre: 'کد',
